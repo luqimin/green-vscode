@@ -1,0 +1,33 @@
+{
+    "name": "forgive-green",
+    "displayName": "Forgive Green",
+    "description": "BETTER FOR YOUR EYES!",
+    "version": "0.1.1",
+    "publisher": "luqimin",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/luqimin/tinylight-vscode"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forgive Green",
+                "uiTheme": "vs",
+                "path": "./themes/forgive.json"
+            }
+        ]
+    },
+    "keywords": [
+        "Forgive Green",
+        "forgive",
+        "health",
+        "green"
+    ]
+}
