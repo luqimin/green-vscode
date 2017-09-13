@@ -2,11 +2,11 @@
     "name": "forgive-green",
     "displayName": "Forgive Green",
     "description": "BETTER FOR YOUR EYES!",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "luqimin",
     "repository": {
         "type": "git",
-        "url": "https://github.com/luqimin/tinylight-vscode"
+        "url": "https://github.com/luqimin/green-vscode"
     },
     "engines": {
         "vscode": "^1.0.0"
